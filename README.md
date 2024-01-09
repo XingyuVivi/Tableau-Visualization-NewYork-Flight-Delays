@@ -33,7 +33,8 @@ The line plot presented here offers a clear depiction of monthly variations in f
 
 When examining flight delays relative to the time of day, a distinct pattern emerges. Our analysis reveals that 11:00 PM (23:00) experiences the longest average arrival delay times, along with the highest frequency of delayed flights. Conversely, the early morning hours, specifically between 5:00 AM and 6:00 AM, are characterized by the shortest and least frequent flight delays. This contrast highlights how flight delay patterns vary significantly over the course of a day, potentially influenced by factors such as air traffic density and operational efficiency at different times.
 
-<img width="1120" alt="Screen Shot 2024-01-09 at 4 35 00 PM" src="https://github.com/XingyuVivi/Tableau-Visualization-NewYork-Flight-Delays/assets/113918034/16b2f495-d403-48d2-9b39-80db3367471d">
+<img width="1120" alt="Screen Shot 2024-01-09 at 4 35 38 PM" src="https://github.com/XingyuVivi/Tableau-Visualization-NewYork-Flight-Delays/assets/113918034/91ae70f4-a379-4d5a-a70d-d508cbf49871">
+
 
 
 ### Interact with the dashboards:
