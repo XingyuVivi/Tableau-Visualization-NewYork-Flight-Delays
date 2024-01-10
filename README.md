@@ -56,7 +56,7 @@ Upon selecting OKC, the bar plots and line graphs in the dashboard adjust to ref
 Interested in exploring these visualizations on your local machine? It's simple! Just download the dataviz_project_v1.twbx file. You can open this file using either Tableau Desktop or Tableau Reader. If you don't have a license for Tableau Desktop, don't worry—Tableau Reader is a free application that allows you to view any Tableau dashboards!
 
 
-## Next Steps and future I=improvement
+## Next Steps and future improvements
 
 Currently, the data source for this project is public and static, derived from the 2013 NYC flights dataset available at [this GitHub repository](https://github.com/tidyverse/nycflights13). 
 
