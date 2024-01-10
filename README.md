@@ -24,7 +24,7 @@ The bar plot on the right side focuses on average delay times categorized by sta
 
 ### Delays by manufacturers:
 
-The following bar plot displays flight delay percentages categorized by manufacturers. A dashed line in the middle marks a 25% average delay across all manufacturers. The bar plot is organized in descending order, making it easy for users to identify manufacturers with the highest delay percentages. The color of the bars further distinguishes manufacturers whose delay percentages exceed or fall below the 
+The following bar plot displays flight delay percentages categorized by manufacturers. A dashed line in the middle marks a 25% average delay across all manufacturers. The bar plot is organized in descending order, making it easy for users to identify manufacturers with the highest delay percentages. The color of the bars further distinguishes manufacturers whose delay percentages exceed or fall below the average level.
 
 <img width="992" alt="Screen Shot 2024-01-09 at 10 29 45 PM" src="https://github.com/XingyuVivi/Tableau-Visualization-NewYork-Flight-Delays/assets/113918034/6839e7d6-0fb9-4ded-ab1b-4beef048a186">
 
